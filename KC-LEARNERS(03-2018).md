@@ -30,7 +30,7 @@
 - [Jackson, Shiquann @shiquann](https://github.com/shiquann/liftoff-assignments.git)
 - Eric Kemmis
 - Joshua King
-- Shireen Korkzan
+- Shireen Korkzan [Korkzan, Shireen (@skzan)](https://github.com/skzan/liftoff-assignments)
 - [Kramme, Alicia, (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Rachel LaNave
 - [Liy, Anri (@Oceanblue713)](https://github.com/Oceanblue713/liftoff-assignments)
